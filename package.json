@@ -1,0 +1,27 @@
+{
+  "name": "pugbot",
+  "version": "1.0.0",
+  "description": "DEPENDENCIES (YOU MUST INSTALL THESE IN ORDER TO RUN THIS BOT):\r     - node.js [https://nodejs.org/en/]\r     - pm2 [http://pm2.keymetrics.io/]",
+  "main": "pugbot.js",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "enmap": "^2.6.3",
+    "fortnite-api": "^2.12.0",
+    "fs": "0.0.1-security",
+    "google-search-scraper": "^0.1.0",
+    "openweather-apis": "^3.3.5",
+    "opusscript": "0.0.6",
+    "read-text-file": "^1.1.0",
+    "simple-rcon": "^0.3.1",
+    "sqlite": "^2.9.0",
+    "srcds-rcon": "^2.2.1",
+    "steamidconvert": "^0.2.4",
+    "ytdl-core": "^0.20.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
